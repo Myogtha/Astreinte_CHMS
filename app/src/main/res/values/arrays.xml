@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- À adapter librement à votre organisation -->
+    <string-array name="types_appel">
+        <item>Niveau 1 (imp, aide, …)</item>
+        <item>(HA) Gestion MDP / Droits</item>
+        <item>(HA) Mouvemento-Vigilance</item>
+        <item>SSO</item>
+        <item>Citrix</item>
+        <item>Autre</item>
+    </string-array>
+
+    <string-array name="sites_geographiques">
+        <item>CHY</item>
+        <item>AIX</item>
+        <item>Autre</item>
+    </string-array>
+</resources>
